@@ -1,0 +1,11 @@
+__history/
+__recovery/
+Win32/
+Documentation/
+*.zip
+*.res
+*.dproj.local
+*.dres
+*.rc
+*.stat
+*.identcache
